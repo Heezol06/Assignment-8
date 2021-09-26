@@ -1,0 +1,8 @@
+.sizing-cart {
+  margin: 0px;
+}
+.cart-bg {
+  background-color: #f7f6f2;
+  border-left: 2px dashed lightslategrey;
+  border-radius: 5px;
+}

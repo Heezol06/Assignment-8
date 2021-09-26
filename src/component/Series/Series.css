@@ -1,0 +1,16 @@
+.poster-sizing {
+  height: 350px;
+}
+.btn-color {
+  background-color: #ffa06d;
+  color: black !important;
+}
+.card-color {
+  background-color: #adbed48c;
+}
+.type-color {
+  color: #ffa06d;
+  background-color: azure;
+  padding: 2px;
+  border-radius: 5px;
+}
