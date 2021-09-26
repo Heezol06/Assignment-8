@@ -1,6 +1,6 @@
 # Choose Your Favourite Series
 
-This is a fun type site [The site link](https://upbeat-bartik-178bae.netlify.app/).
+Click here for visite our site [The site link](https://upbeat-bartik-178bae.netlify.app/).
 
 ## About our project
 
