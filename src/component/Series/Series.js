@@ -16,7 +16,7 @@ const Series = (props) => {
       <h6>Making Cost: <small className="text-danger">{makingCost}M</small></h6>
     </div>
     <div className="card-footer card-color">
-      <button className="btn btn-color text-muted text-light !importenet" onClick={()=>props.handleAddCost(props.singleSeries)} ><i class="fas fa-plus"></i>  Add Cost </button>
+      <button className="btn btn-color text-muted text-light !importenet" onClick={()=>props.handleAddCost(props.singleSeries)} ><i className="fas fa-plus"></i>  Add Cost </button>
     </div>
   </div>
 </div>
